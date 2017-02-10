@@ -1,0 +1,47 @@
+commit 2a624b2158abddb3536bdcafd18b0518ffd947a9
+Author: Paul Farino <paul.farino1@gmail.com>
+Date:   Thu Feb 9 23:09:01 2017 -0800
+
+    Initial commit
+
+commit d75319a1514b026fdc25fab87c6becc4317a085b
+Author: Paul Farino <paul.farino1@gmail.com>
+Date:   Thu Feb 9 23:03:43 2017 -0800
+
+    Add favicon
+
+commit bb1ffdd76832ce45df0169be2de7744e6679030a
+Author: Paul Farino <paul.farino1@gmail.com>
+Date:   Thu Feb 9 22:59:32 2017 -0800
+
+    Add dashboard test
+
+commit ef3aa218153256d07a94f50af7a8fb1ef2f9a8c1
+Author: Paul Farino <paul.farino1@gmail.com>
+Date:   Thu Feb 9 22:55:55 2017 -0800
+
+    Add colors
+
+commit c188ecab373cc41bdc7e5b370172e608e8465650
+Author: Paul Farino <paul.farino1@gmail.com>
+Date:   Thu Feb 9 22:46:51 2017 -0800
+
+    Add routing + back
+
+commit b526380d896ff2204dba5e67602523fe9a124424
+Author: Paul Farino <paul.farino1@gmail.com>
+Date:   Thu Feb 9 17:47:12 2017 -0800
+
+    Scss test
+
+commit 97d53d8f801bff8414dbf3dc1f745328a1db1a0b
+Author: Paul Farino <paul.farino1@gmail.com>
+Date:   Thu Feb 9 17:45:27 2017 -0800
+
+    Updates
+
+commit 416546cbe09c4a6237d2fc8f0cc3c7c308acc43e
+Author: Paul Farino <paul.farino1@gmail.com>
+Date:   Thu Feb 9 17:39:50 2017 -0800
+
+    Initial commit

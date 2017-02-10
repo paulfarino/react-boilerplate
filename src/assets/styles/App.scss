@@ -1,0 +1,59 @@
+@import 'Colors';
+
+.app {
+  text-align: center;
+
+  .buttonContainer {
+    background-color: $desert-storm;
+    padding: 48px;
+    margin: 0px auto;
+  }
+
+  a.button {
+    -webkit-appearance: none;
+    appearance: none;
+    background-color: $malibu;
+    color: $white;
+    text-decoration: none;
+    display: inline-block;
+    padding: 12px 24px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.4;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border-radius: 3px;
+    border: 0;
+
+    &:hover {
+      transition: 0.2s ease-in-out;
+      background-color: darken($malibu, 10%);
+    }
+  }
+}
+
+.appLogo {
+  height: 80px;
+}
+
+.appHeader {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: $white;
+}
+
+.App-intro {
+  font-size: 52px;
+  color: $white;
+}
