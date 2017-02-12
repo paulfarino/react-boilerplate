@@ -7,8 +7,11 @@ var WatchMissingNodeModulesPlugin = require('react-dev-utils/WatchMissingNodeMod
 var getClientEnvironment = require('./env');
 var paths = require('./paths');
 var combineLoaders = require('webpack-combine-loaders');
+var OfflinePlugin = require('offline-plugin')
 
-
+// Optimize app for offline
+var html = new HtmlWebpackPlugin({template: './src/index.html'})
+var offline = new OfflinePlugin
 // Webpack uses `publicPath` to determine where the app is being served from.
 // In development, we always serve from the root. This makes config easier.
 var publicPath = '/';
