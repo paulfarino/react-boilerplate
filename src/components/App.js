@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './../assets/images/react-boilerplate-logo.svg';
 import styles from './../assets/styles/App.scss'
-import { Router, Route, browserHistory, Link } from 'react-router'
+import { Link } from 'react-router'
 
 class App extends Component {
   render() {
