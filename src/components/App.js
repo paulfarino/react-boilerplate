@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Footer from './Footer';
 import logo from './../assets/images/react-boilerplate-logo.svg';
 import styles from './../assets/styles/App.scss'
 import { Link } from 'react-router'
@@ -15,6 +16,7 @@ class App extends Component {
         <div className={styles.buttonContainer}>
           <Link to="dashboard" className={styles.button}>Go to the dashboard</Link>
         </div>
+      <Footer/>
       </div>
     );
   }

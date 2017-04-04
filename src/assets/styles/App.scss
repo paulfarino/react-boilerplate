@@ -1,5 +1,6 @@
 @import 'Index';
 @import 'Colors';
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 
 .app {
   text-align: center;
@@ -57,4 +58,8 @@
 .App-intro {
   font-size: 52px;
   color: $white;
+}
+
+.stars {
+  color: $malibu;
 }
